@@ -1,2 +1,2 @@
 # spotify-record-player
-Tap the RFID tag to the RFID scanner to start playing an album on Spotify.
+This RFID record player lets you hover your RFID card over the RFID scanner, and automatically begins playing an album on Spotify using the Spotify API. The RFID scanner is connected to a Raspberry Pi that is running a Python script. The script plays an album when the RFID number associated with the album is scanned onto the RFID scanner. This script constantly refreshes your access token, so you never have to worry about requestion a new one. 
