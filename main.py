@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import requests
 from refresh import Refresh
 import RPi.GPIO as GPIO
