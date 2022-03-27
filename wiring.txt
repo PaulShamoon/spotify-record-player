@@ -1,0 +1,7 @@
+SDA/NSS  - GPIO 8 (CEO)
+SCK      - GPIO 11 (SCLK)
+MOSI     - GPIO 10 (MOSI)
+MISO     - GPIO 9 (MISO)
+GROUND   - GROUND
+RST      - GPIO 23
+3.3V/VCC - 3.3V
