@@ -1,0 +1,16 @@
+#Check for updates and install
+- Sudo apt-get update
+- Sudo apt-get upgrade
+
+#Enable SPI
+- sudo raspi-config
+- select "interfacing options"
+- Select "SPI"
+- Select "Yes"
+- Wait for enabled message
+- Sudo reboot
+
+#Install packages/libraries
+- sudo apt-get install python3-dev python3-pip
+- sudo pip3 install spidev
+- sudo pip3 install mfrc522
