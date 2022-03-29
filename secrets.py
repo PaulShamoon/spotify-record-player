@@ -8,4 +8,4 @@ spotify_user_id = ""
 refresh_token = ""
 #Get your client ID and client secret seperated by a colon. 
 #Then encode that in base 64 and enter that code
-base_64 = "="
+base_64 = ""
