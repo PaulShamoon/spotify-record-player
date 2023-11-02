@@ -1,6 +1,6 @@
 #Check for updates and install
 - Sudo apt-get update
-- Sudo apt-get upgrade
+- Sudo apt-get full-upgrade
 
 #Enable SPI
 - sudo raspi-config
